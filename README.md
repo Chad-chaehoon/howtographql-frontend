@@ -1,3 +1,8 @@
+# 시작하기전에
+
+root folder와 ./server folder에서
+```yarn```을 실행하시고 ```yarn start```를 실행 하셔서 화면과 playground를 실행하셔야 합니다.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
